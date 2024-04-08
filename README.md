@@ -2,9 +2,6 @@
 <h3 align="center">Aspiring full-stack web developer from India</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmya-k-s" alt="sowmya-k-s" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, React js**
 
 - 👨‍💻 All of my projects are available at [sowmya123.me](sowmya123.me)
