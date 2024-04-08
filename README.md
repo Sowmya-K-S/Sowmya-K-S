@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React js**
 
-- 👨‍💻 All of my projects are available at [sowmya123.me](sowmya123.me)
+- 👨‍💻 All of my projects are available at [sowmya12.me](sowmya12.me)
 
 - 📝 I regularly write articles on [https://sowmyaks.hashnode.dev/](https://sowmyaks.hashnode.dev/)
 
