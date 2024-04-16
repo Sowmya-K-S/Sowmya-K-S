@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sowmya</h1>
 <h3 align="center">Aspiring full-stack web developer from India</h3>
 
-<hr>
+<br>
 
 - 🌱 I’m currently learning **JavaScript, React js**
 
