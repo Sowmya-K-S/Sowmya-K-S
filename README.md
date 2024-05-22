@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript, React js**
 
+- ⚒️ Working on many projects **Few Repos are empty as they serve as reference to future work**
+
 - 👨‍💻 Have a look at my Portfolio on [Sowmya's Portfolio](https://sowmya12.me/)
 
 - 📝 I regularly write articles on [https://sowmyaks.hashnode.dev/](https://sowmyaks.hashnode.dev/)
